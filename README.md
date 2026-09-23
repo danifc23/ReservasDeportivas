@@ -21,3 +21,7 @@ El director debe evitar que se solapen los horarios de reservas entre diferentes
 ## Juego de rol
 
 ![Tarjeta del juego de rol con mi problema](tarjetaRol.jpeg)
+
+## Configuración
+
+La configuración inicial del proyecto se realizará mediante las herramientas y servicios necesarios para su desarrollo y posterior despliegue en la nube.
