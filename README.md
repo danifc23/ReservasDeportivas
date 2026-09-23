@@ -14,6 +14,10 @@ Estos datos están disponibles en el registro de la ciudad deportiva
 
 El director debe evitar que se solapen los horarios de reservas entre diferentes clientes, tambien se debe analizar la ocupación de las instalaciones, y saber que horarios tienen mas demanda
 
+## Documentación
+
+[configuracion del repositorio](docs/configuracion.md)
+
 ## Juego de rol
 
 ![Tarjeta del juego de rol con mi problema](tarjetaRol.jpeg)
