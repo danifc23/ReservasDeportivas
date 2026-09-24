@@ -16,7 +16,7 @@ El director debe evitar que se solapen los horarios de reservas entre diferentes
 
 ## Documentación
 
-[configuracion del repositorio](docs/configuracion.md)
+configuración [configuracion del repositorio](docs/configuracion.md)
 
 ## Juego de rol
 
